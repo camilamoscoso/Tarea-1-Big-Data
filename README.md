@@ -21,16 +21,16 @@ Es especialmente en ésta ultima categoría en la cual se centrarán los objetiv
 e intento consumir sólo marcas que no testeen en animales.
 Al momento de realizar la busqueda de los productos Cruelty free en la página, existen subdivisiones dependiendo del producto que se requiera, los cuales son:
 
-+Capilar
-+Cuerpo
-+Cuidado Mujer
-+Desodorantes Y Antitranspirantes
-+Fragancias
-+Higiene
-+Hombres
-+Manos Y Pies
-+Maquillaje
-+Proteccion Solar
+- Capilar
+- Cuerpo
+- Cuidado Mujer
+- Desodorantes Y Antitranspirantes
+- Fragancias
+- Higiene
+- Hombres
+- Manos Y Pies
+- Maquillaje
+- Proteccion Solar
 
 El **objetivo** que se pretende conseguir es conocer el porcentaje de marcas de belleza que se comercializan dentro de la página, cuales pertenecen a la categoría cruelty free y cuales no cuentan con la certificación. Además se podría incluir la subcategria a la que pertenecen, por ejemplo si son productos capilares, maquillaje, etc.
 
