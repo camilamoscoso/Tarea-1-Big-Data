@@ -7,15 +7,15 @@ La Página de la empresa seleccionada, corresponde a *[PREUNIC](https://preunic.
 
 Ésta empresa se dedica a la venta de productos de diversas categorías. Entre las que destacan
 
-+Belleza
-+Capilar
-+Cuidado de la Piel
-+Mi Bebé
-+Cuidado Personal
-+Hogar
-+Librería
-+Juguetería
-+Cruelty Free
+- Belleza
+- Capilar
+- Cuidado de la Piel
+- Mi Bebé
+- Cuidado Personal
+- Hogar
+- Librería
+- Juguetería
+- Cruelty Free
 
 Es especialmente en ésta ultima categoría en la cual se centrarán los objetivos, debido a que es un tema que personalmente me llama mucho la atención
 e intento consumir sólo marcas que no testeen en animales.
